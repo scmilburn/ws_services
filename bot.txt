@@ -1,0 +1,1 @@
+{"meta":{"code":201},"response":{"bot":{"name":"~Winterfell Services~","bot_id":"cb54c0cc4cf14a04ef6737e67d","group_id":"14297425","group_name":"Winterfell 2015-2016","avatar_url":null,"callback_url":null,"dm_notification":false}}}

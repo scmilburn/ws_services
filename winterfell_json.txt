@@ -1,0 +1,23 @@
+{"response":[{"id":"14297425",
+"group_i":"14297425",
+"name":"Winterfell 2015-2016",
+"phone_number":"+1 2403249581",
+"type":"private","description":"",
+"image_url":"https://i.groupme.com/638x638.jpeg.65bf1ef9fb5645f6b1a7b0a534399dc9",
+"creator_user_id":"9142845",
+"created_at":1433209287,
+updated_at":1457913737,
+"office_mode":false,
+"share_url":null,
+"members":[{
+	"user_id":"30226877",
+	"nickname":"Maya Spaur",
+	"image_url":"https://i.groupme.com/920x1632.png.7eed3eca1cb64ca58a8eebf9214e72ba",
+	"id":"102642897",
+	"muted":false,
+	"autokicked":false
+	},
+	{
+	"user_id":"7580622",
+	"nickname":"Aleah Pisarz",
+	"image_url":"http://i.groupme.com/2048x1536.jpeg.ce62b00ccece43dd8ab45a21795df855","id":"102666366","muted":false,"autokicked":false},{"user_id":"9142845","nickname":"Simon M","image_url":"http://i.groupme.com/640x640.jpeg.46df522e9f1a443988fdbae549420853","id":"90125750","muted":false,"autokicked":false},{"user_id":"20725504","nickname":"Dan Mclaughlin","image_url":null,"id":"90125752","muted":false,"autokicked":false},{"user_id":"9704844","nickname":"Ori Gutin","image_url":null,"id":"90125755","muted":false,"autokicked":false},{"user_id":"19562444","nickname":"Ben Belzer","image_url":"http://i.groupme.com/1280x1269.jpeg.8a68aff2817949ee96c7b4d5bcfdf218","id":"90125821","muted":false,"autokicked":false},{"user_id":"26112591","nickname":"Andrea Beaty","image_url":"https://i.groupme.com/750x750.jpeg.c636bfb444514a2fa970a9524e9cfc19","id":"99138288","muted":false,"autokicked":false}],"messages":{"count":3326,"last_message_id":"145791373715445622","last_message_created_at":1457913737,"preview":{"nickname":"Aleah Pisarz","text":"I'm mad jealous","image_url":"https://i.groupme.com/2048x1536.jpeg.ce62b00ccece43dd8ab45a21795df855","attachments":[]}},"max_members":200},
